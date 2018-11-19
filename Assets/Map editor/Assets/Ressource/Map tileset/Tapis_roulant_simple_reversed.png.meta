@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 0d236b206806cd549a1b0f53d617d85c
+timeCreated: 1542255135
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tapis_roulant_simple_reversed_0
+    21300002: Tapis_roulant_simple_reversed_1
+    21300004: Tapis_roulant_simple_reversed_2
+    21300006: Tapis_roulant_simple_reversed_3
+    21300008: Tapis_roulant_simple_reversed_4
+    21300010: Tapis_roulant_simple_reversed_5
+    21300012: Tapis_roulant_simple_reversed_6
+    21300014: Tapis_roulant_simple_reversed_7
+    21300016: Tapis_roulant_simple_reversed_8
+    21300018: Tapis_roulant_simple_reversed_9
+    21300020: Tapis_roulant_simple_reversed_10
+    21300022: Tapis_roulant_simple_reversed_11
+    21300024: Tapis_roulant_simple_reversed_12
+    21300026: Tapis_roulant_simple_reversed_13
+    21300028: Tapis_roulant_simple_reversed_14
+    21300030: Tapis_roulant_simple_reversed_15
+    21300032: Tapis_roulant_simple_reversed_16
+    21300034: Tapis_roulant_simple_reversed_17
+    21300036: Tapis_roulant_simple_reversed_18
+    21300038: Tapis_roulant_simple_reversed_19
+    21300040: Tapis_roulant_simple_reversed_20
+    21300042: Tapis_roulant_simple_reversed_21
+    21300044: Tapis_roulant_simple_reversed_22
+    21300046: Tapis_roulant_simple_reversed_23
+    21300048: Tapis_roulant_simple_reversed_24
+    21300050: Tapis_roulant_simple_reversed_25
+    21300052: Tapis_roulant_simple_reversed_26
+    21300054: Tapis_roulant_simple_reversed_27
+    21300056: Tapis_roulant_simple_reversed_28
+    21300058: Tapis_roulant_simple_reversed_29
+    21300060: Tapis_roulant_simple_reversed_30
+    21300062: Tapis_roulant_simple_reversed_31
+    21300064: Tapis_roulant_simple_reversed_32
+    21300066: Tapis_roulant_simple_reversed_33
+    21300068: Tapis_roulant_simple_reversed_34
+    21300070: Tapis_roulant_simple_reversed_35
+    21300072: Tapis_roulant_simple_reversed_36
+    21300074: Tapis_roulant_simple_reversed_37
+    21300076: Tapis_roulant_simple_reversed_38
+    21300078: Tapis_roulant_simple_reversed_39
+    21300080: Tapis_roulant_simple_reversed_40
+    21300082: Tapis_roulant_simple_reversed_41
+    21300084: Tapis_roulant_simple_reversed_42
+    21300086: Tapis_roulant_simple_reversed_43
+    21300088: Tapis_roulant_simple_reversed_44
+    21300090: Tapis_roulant_simple_reversed_45
+    21300092: Tapis_roulant_simple_reversed_46
+    21300094: Tapis_roulant_simple_reversed_47
+    21300096: Tapis_roulant_simple_reversed_48
+    21300098: Tapis_roulant_simple_reversed_49
+    21300100: Tapis_roulant_simple_reversed_50
+    21300102: Tapis_roulant_simple_reversed_51
+    21300104: Tapis_roulant_simple_reversed_52
+    21300106: Tapis_roulant_simple_reversed_53
+    21300108: Tapis_roulant_simple_reversed_54
+    21300110: Tapis_roulant_simple_reversed_55
+    21300112: Tapis_roulant_simple_reversed_56
+    21300114: Tapis_roulant_simple_reversed_57
+    21300116: Tapis_roulant_simple_reversed_58
+    21300118: Tapis_roulant_simple_reversed_59
+    21300120: Tapis_roulant_simple_reversed_60
+    21300122: Tapis_roulant_simple_reversed_61
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 875
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 875
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 875
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 875
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 875
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 875
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 875
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_7
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 875
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 750
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 750
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 750
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 750
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 750
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_14
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 750
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 750
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 625
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 625
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 625
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 625
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_21
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 625
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 625
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_23
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 625
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 500
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 500
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_27
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 500
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_29
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 500
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_30
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 500
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_31
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 500
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 375
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 375
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 375
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 375
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_37
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 375
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_38
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 375
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_39
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 375
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 250
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_42
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_43
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 250
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 250
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_45
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 250
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_46
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 250
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_47
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 250
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_49
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 125
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_50
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 125
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_51
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 125
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 125
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_53
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 125
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_54
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 125
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_55
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 125
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_57
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_58
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_59
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_60
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tapis_roulant_simple_reversed_61
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
